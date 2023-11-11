@@ -1,7 +1,7 @@
 # Hi there 👋
 Hello, I'm Zainurman, a data analyst interested in exploring data from various sources. On this GitHub page, you will find various data analysis content that I have created, ranging from simple data analysis to complex data analysis.
 
-## education :
+## Education :
 
 * Bachelor Degree :
   * Management, Universitas Widyatama, 2022
@@ -22,7 +22,7 @@ Hello, I'm Zainurman, a data analyst interested in exploring data from various s
   * Myskill
     * September 2023 - in going
     
-# Experience
+## Experience
 * Zskull Studios
   * Co-Founder, Graphic Desainer
     *   2017 - 2018
@@ -30,7 +30,7 @@ Hello, I'm Zainurman, a data analyst interested in exploring data from various s
   * General Affair Administration
     * 2017 - present
 
-# Skill
+## Skill
 
 * programming language: Python, SQL, HTML, VBA, CSS, PHP
 * Database:  POSTGRESQL, MySQL, SQL, Dbeaver
