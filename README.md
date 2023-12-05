@@ -29,6 +29,9 @@ Hello, I'm Zainurman, a data analyst interested in exploring data from various s
 * Kaldu Sari Nabati Indonesia, PT
   * General Affair Administration
     * 2017 - present
+* Growia Edukasi Indonesia, PT
+  * Sales Support (Freelance)
+    * Nov 2023 - present
 
 ## Skill
 
